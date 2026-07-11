@@ -1,0 +1,10 @@
+streamlit>=1.28
+langchain>=0.2
+langchain-openai
+langchain-community
+langchain-text-splitters
+chromadb
+pypdf
+python-dotenv
+modelscope
+sentence-transformers
