@@ -1,6 +1,6 @@
 # 📚 PDF 智能问答系统
 
-![demo](assets/demo.gif)
+![demo](assert/demo.gif)
 
 ## 一句话介绍
 上传 PDF → 用自然语言提问 → AI 基于原文回答。基于 RAG（检索增强生成）技术。
@@ -60,7 +60,7 @@ pdf-qa-assistant/
 ├── .env.example        # 环境变量模板
 ├── .gitignore
 ├── README.md
-└── assets/             # 演示素材
+└── assert/             # 演示素材
 ```
 
 ## 踩坑记录
